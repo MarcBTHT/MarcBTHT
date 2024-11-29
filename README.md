@@ -37,7 +37,12 @@ Here are some ideas to get you started:
 | 🔗 Participant @ HEC Hackathon          | [eduToz](https://github.com/MarcBTHT/HackathonHEC) | October 2023    | [HEC Paris](https://www.hec.edu/fr)               |
 | 🥇 1st @ Paris Dauphine X 1inch         | [LugTrack](https://github.com/MarcBTHT/LugTrack)    | September 2023  | [Paris Dauphine](https://dauphine.psl.eu/)         |
 
----
+## 🚀 Personal Projects:
+| 🔨 Project                              | 🌐 Demo                                    | 📂 Repository                               | 📝 Description                              |
+|-----------------------------------------|-------------------------------------------|--------------------------------------------|--------------------------------------------|
+| 🎨 **OurWorldArt**                      | [Visit Here](https://ourworldart.vercel.app/) | [GitHub](https://github.com/orgs/OurWorldArt/repositories) | A platform for collaborative blockchain-based art creation. |
+| 📈 **Stratixx**                         | [Visit Here](https://stratixx.vercel.app/)  | [GitHub](https://github.com/Portfolio-Managment/Stratixx)  | A tool for managing and optimizing cryptocurrency portfolios. |
+
 
 ## 💻 Last tech used:
 
@@ -49,8 +54,6 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
 
 ## 🔗 Contact me:
 | 📱 App      | 🌐 Link                        |
